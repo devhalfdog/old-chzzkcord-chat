@@ -5,7 +5,7 @@
 
 ### 사용 방법
 ```Bash
-$ go get -u github.com/chzzkcord/chzzk-chat
+$ go get -u github.com/devhalfdog/old-chzzkcord-chat
 ```
 
 ```Go
